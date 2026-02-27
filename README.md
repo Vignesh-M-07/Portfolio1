@@ -217,6 +217,11 @@ footer {
 
 ## OUTPUT
 
+<img width="1897" height="909" alt="image" src="https://github.com/user-attachments/assets/e3ea97b8-92de-4c4e-bca9-850e89ec679c" />
+
+<img width="1881" height="842" alt="image" src="https://github.com/user-attachments/assets/431e10a5-f644-4a52-9def-22cf975173ed" />
+
+
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
